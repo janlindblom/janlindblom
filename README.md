@@ -23,5 +23,5 @@ You can find me in a couple of places:
 - Translations
   - [ProZ](https://www.proz.com/translator/2040203)
   - [Crowdin](https://crowdin.com/profile/janlindblom)
-  - [Weblate Tusky](https://weblate.tusky.app/user/janlindblom/)
+  - [Tusky Weblate](https://weblate.tusky.app/user/janlindblom/)
 
