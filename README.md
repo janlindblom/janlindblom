@@ -18,8 +18,8 @@ bunch of other projects during the years.
 You can find me in a couple of places:
 
 - Social Media
-  - Mastodon: <a rel="me" href="https://ruby.social/@janerictobias">@janerictobias@ruby.social</a>
-  - Pixelfed: <a rel="me" href="https://pixelfed.uno/@janerictobias">@janerictobias@pixelfed.uno</a>
+  - Mastodon: <a rel="me" href="https://ruby.social/@janerictobias">@janerictobias</a>
+  - Pixelfed: <a rel="me" href="https://pixelfed.uno/@janerictobias">@janerictobias</a>
 - Translations
   - [ProZ](https://www.proz.com/translator/2040203)
   - [Crowdin](https://crowdin.com/profile/janlindblom)
